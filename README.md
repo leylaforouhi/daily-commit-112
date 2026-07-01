@@ -1,4 +1,4 @@
-def reverse_words(sentenc):
+def reverse_words(sentencE):
     return " ".join(sentence.split()[::-1])
 
 if __name__ == "__main__":
